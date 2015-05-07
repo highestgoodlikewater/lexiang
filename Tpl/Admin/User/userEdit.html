@@ -1,0 +1,51 @@
+<div class="pageContent">
+	<form method="post" action="{:U('Admin/UserAct/modifyuser')}" class="pageForm required-validate" onsubmit="return validateCallback(this)">
+		<div class="pageFormContent" layoutH="56">
+        <input type="hidden" name="id" value="{$Think.get.id}">
+			<p>
+				<label>用户名</label>
+				<input name="username" type="text" size="30" value="{$userData.username}" />
+			</p>
+            <p>
+				<label>所属分类</label>
+                <select name="pid">
+				<option id="1">最上级分类</option>
+                <volist name="categorydata" id="vo">
+                <option id="{$vo.pid}">{$vo.category}</option>
+                </volist>
+                </select>
+			</p>
+            <p>
+				<label>密码</label>
+				<input type="password" class="required alphanumeric textInput" size="30" name="password">
+			</p>
+			<p>
+				<label>昵称</label>
+				<input name="nickname" type="text" size="30" value="{$userData.nickname}"/>	
+			</p>
+			<p>
+				<label>状态</label>
+			<select name="state">
+			<if condition="$userData.state eq 1"><option value="1">通过</option><option value="0">未通过</option></select><else/><option value="0">未通过</option><option value="1">通过</option></select></if>
+			</p>
+            <p>
+				<label>头像</label>
+				<img src="__UPLOAD__/image/{$userData.image}" width="130"/>
+                <input name="photo" type="file" />
+			</p>
+
+
+            
+
+
+		</div>
+		<div class="formBar">
+			<ul>
+				<li><div class="buttonActive"><div class="buttonContent"><button type="submit">提交</button></div></div></li>
+				<li>
+					<div class="button"><div class="buttonContent"><button type="button" class="close">取消</button></div></div>
+				</li>
+			</ul>
+		</div>
+	</form>
+</div>

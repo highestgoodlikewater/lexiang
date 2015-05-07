@@ -1,0 +1,51 @@
+<form id="pagerForm" method="post" action="{:U('Admin/User/userlog')}">
+	<input type="hidden" name="pageNum" value="1" />
+	<input type="hidden" name="numPerPage" value="{$numPerPage}" />
+	<input type="hidden" name="orderField" value="{$orderField}" />
+	<input type="hidden" name="orderDirection" value="{$orderDirection}" />
+</form>
+<div class="pageContent">
+	<table class="table" width="100%" layoutH="50">
+		<thead>
+			<tr>
+				<th width="50">日志编号</th>
+				<th width="100">用户</th>
+				<th width="100">用户昵称</th>
+				<th width="80" >登陆地址</th>
+				<th width="80" >登陆ip</th>
+				<th width="130">登陆时间</th>
+				<th width="70">操作</th>
+			</tr>
+		</thead>
+		<tbody>
+		<!-- 循环输出商店信息 -->
+			<volist name="logData" id="vo">
+			<tr target="sid_user" rel="{$i}">
+				<td align="center">{$vo.id}</td>
+				<td>{$vo.user.username}</td>
+				<td>{$vo.user.nickname}</td>
+				<td>{:getLocation($vo['logip'])}</td>
+				<td>{$vo.logip}</td>
+				<td>{$vo.logtime|date='Y-m-d H:i', ###}</td>
+				<td>
+					<a title="确定要删除该日志吗？" target="ajaxTodo" href="{:U('Admin/UserAct/deluserlog', array('id'=>$vo['id']))}" class="btnDel" >删除</a>
+				</td>
+			</tr>
+			</volist>
+		</tbody>
+	</table>
+	<div class="panelBar">
+		<div class="pages">
+			<span>显示</span>
+			<select class="combox" name="numPerPage" onchange="navTabPageBreak({numPerPage:this.value})">
+				<option value="20" <if condition="$numPerPage eq 20">selected="true"</if>>20</option>
+				<option value="50" <if condition="$numPerPage eq 50">selected="true"</if>>50</option>
+				<option value="100" <if condition="$numPerPage eq 100">selected="true"</if>>100</option>
+				<option value="150" <if condition="$numPerPage eq 150">selected="true"</if>>150</option>
+			</select>
+			<span>条，共{$totalCount}条</span>
+		</div>
+		<div class="pagination" targetType="navTab" totalCount="{$totalCount}" numPerPage="{$numPerPage}" pageNumShown="10" currentPage="{$pageNum}"></div>
+
+	</div>
+</div>

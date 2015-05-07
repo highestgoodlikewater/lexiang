@@ -1,0 +1,29 @@
+<div class="pageContent">
+	<form method="post" action="{:U('Admin/ResourceAct/addarticlecategory')}" class="pageForm required-validate" onsubmit="return validateCallback(this)"  enctype="multipart/form-data">
+		<div class="pageFormContent" layoutH="56">
+            <p>
+				<label>添加分类：</label>
+                <select name="pid">
+                 <option value="0">上级分类</option>
+                <volist name="categorydata" id="vo">
+                <option value="{$vo.id}">{$vo.category}</option>
+                </volist>
+                </select>
+			</p>
+			<p>
+            <label>分类名称：</label>
+			<input name="category" type="text" size="30">
+
+			</p>
+            
+		</div>
+		<div class="formBar">
+			<ul>
+				<li><div class="buttonActive"><div class="buttonContent"><button type="submit">添加</button></div></div></li>
+				<li>
+					<div class="button"><div class="buttonContent"><button type="button" class="close">取消</button></div></div>
+				</li>
+			</ul>
+		</div>
+	</form>
+</div>

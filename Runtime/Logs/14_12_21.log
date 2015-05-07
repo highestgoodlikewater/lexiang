@@ -1,0 +1,540 @@
+[ 2014-12-21T23:10:43+08:00 ] 127.0.0.1 /lexiang/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [8] Undefined index: _type G:\wamp\www\lexiang\ThinkPHP\Lib\Core\Model.class.php 第 579 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead G:\wamp\www\lexiang\ThinkPHP\Lib\Core\Db.class.php 第 604 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\lexiang\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+NOTIC: [2] mysql_connect():  G:\wamp\www\lexiang\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+ERR: Acc�s refus� pour l'utilisateur: 'root'@'@localhost' (mot de passe: NON)
+
+[ 2014-12-21T23:10:45+08:00 ] 127.0.0.1 /lexiang/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [8] Undefined index: _type G:\wamp\www\lexiang\ThinkPHP\Lib\Core\Model.class.php 第 579 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead G:\wamp\www\lexiang\ThinkPHP\Lib\Core\Db.class.php 第 604 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\lexiang\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+NOTIC: [2] mysql_connect():  G:\wamp\www\lexiang\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+ERR: Acc�s refus� pour l'utilisateur: 'root'@'@localhost' (mot de passe: NON)
+
+[ 2014-12-21T23:11:36+08:00 ] 127.0.0.1 /lexiang/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.010000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+NOTIC: [8] Undefined index: _type G:\wamp\www\lexiang\ThinkPHP\Lib\Core\Model.class.php 第 579 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead G:\wamp\www\lexiang\ThinkPHP\Lib\Core\Db.class.php 第 604 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\lexiang\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+NOTIC: [2] mysql_connect():  G:\wamp\www\lexiang\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+ERR: Acc�s refus� pour l'utilisateur: 'root'@'@localhost' (mot de passe: NON)
+
+[ 2014-12-21T23:11:37+08:00 ] 127.0.0.1 /lexiang/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.010000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+NOTIC: [8] Undefined index: _type G:\wamp\www\lexiang\ThinkPHP\Lib\Core\Model.class.php 第 579 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead G:\wamp\www\lexiang\ThinkPHP\Lib\Core\Db.class.php 第 604 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\lexiang\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+NOTIC: [2] mysql_connect():  G:\wamp\www\lexiang\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+ERR: Acc�s refus� pour l'utilisateur: 'root'@'@localhost' (mot de passe: NON)
+
+[ 2014-12-21T23:12:00+08:00 ] 127.0.0.1 /lexiang/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.040000s ]
+NOTIC: [8] Undefined index: _type G:\wamp\www\lexiang\ThinkPHP\Lib\Core\Model.class.php 第 579 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead G:\wamp\www\lexiang\ThinkPHP\Lib\Core\Db.class.php 第 604 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\lexiang\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+NOTIC: [2] mysql_connect():  G:\wamp\www\lexiang\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+ERR: Acc�s refus� pour l'utilisateur: 'root'@'@localhost' (mot de passe: NON)
+
+[ 2014-12-21T23:12:02+08:00 ] 127.0.0.1 /lexiang/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.010000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+NOTIC: [8] Undefined index: _type G:\wamp\www\lexiang\ThinkPHP\Lib\Core\Model.class.php 第 579 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead G:\wamp\www\lexiang\ThinkPHP\Lib\Core\Db.class.php 第 604 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\lexiang\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+NOTIC: [2] mysql_connect():  G:\wamp\www\lexiang\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+ERR: Acc�s refus� pour l'utilisateur: 'root'@'@localhost' (mot de passe: NON)
+
+[ 2014-12-21T23:12:26+08:00 ] 127.0.0.1 /lexiang/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: _type G:\wamp\www\lexiang\ThinkPHP\Lib\Core\Model.class.php 第 579 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead G:\wamp\www\lexiang\ThinkPHP\Lib\Core\Db.class.php 第 604 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\lexiang\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+NOTIC: [2] mysql_connect():  G:\wamp\www\lexiang\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+ERR: Acc�s refus� pour l'utilisateur: 'root'@'@localhost' (mot de passe: NON)
+
+[ 2014-12-21T23:20:47+08:00 ] 127.0.0.1 /lexiang/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.668395s ]
+NOTIC: [8] Undefined index: _type G:\wamp\www\lexiang\ThinkPHP\Lib\Core\Model.class.php 第 579 行.
+ERR: Unknown database 'hardware'
+
+[ 2014-12-21T23:22:12+08:00 ] 127.0.0.1 /lexiang/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006061s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006438s ]
+NOTIC: [8] Undefined index: _type G:\wamp\www\lexiang\ThinkPHP\Lib\Core\Model.class.php 第 579 行.
+SQL: SELECT * FROM `hd_article` WHERE ( `state` = 1 ) LIMIT 7   [ RunTime:0.000929s ]
+SQL: SELECT * FROM `hd_resource` WHERE ( state=0 ) LIMIT 7   [ RunTime:0.002150s ]
+SQL: SELECT * FROM `hd_article` LIMIT 20   [ RunTime:0.001487s ]
+SQL: SELECT * FROM `hd_article` WHERE ( categoryid=5 ) LIMIT 7   [ RunTime:0.001041s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `hd_article` LIMIT 1   [ RunTime:0.000802s ]
+SQL: SELECT * FROM `hd_article` LIMIT 1   [ RunTime:0.000899s ]
+SQL: SELECT * FROM `hd_article` WHERE ( categoryid=13 ) LIMIT 7   [ RunTime:0.000933s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.105227s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.105433s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.006178s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.007282s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.005291s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.008350s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.027624s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.008403s ]
+INFO: [ view_end ] --END-- [ RunTime:0.008729s ]
+
+[ 2014-12-21T23:22:18+08:00 ] 127.0.0.1 /lexiang/index.php/Main/Article/article/category/572R6aG15YmN56uv.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006529s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006832s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006485s ]
+NOTIC: [8] Undefined index: _type G:\wamp\www\lexiang\ThinkPHP\Lib\Core\Model.class.php 第 579 行.
+SQL: SELECT `id` FROM `hd_articlecategory` WHERE ( `category` = '网页前端' ) LIMIT 1   [ RunTime:0.000595s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `hd_article` WHERE ( categoryid=2 ) LIMIT 1   [ RunTime:0.000501s ]
+SQL: SELECT * FROM `hd_article` WHERE ( categoryid=2 ) ORDER BY ptime LIMIT 0,5   [ RunTime:0.000682s ]
+SQL: SELECT * FROM `hd_articlecategory`  [ RunTime:0.003955s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='1' )  [ RunTime:0.001949s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='2' )  [ RunTime:0.001111s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='3' )  [ RunTime:0.001380s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='4' )  [ RunTime:0.001943s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='5' )  [ RunTime:0.000779s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='6' )  [ RunTime:0.000632s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='8' )  [ RunTime:0.000597s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='9' )  [ RunTime:0.002165s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='10' )  [ RunTime:0.002266s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='11' )  [ RunTime:0.001695s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='12' )  [ RunTime:0.001362s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='13' )  [ RunTime:0.001489s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='14' )  [ RunTime:0.002523s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='15' )  [ RunTime:0.000697s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: articlelist G:\wamp\www\lexiang\Runtime\Cache\Main\55b01cdaecfc3011677ce72a3dcb1160.php 第 83 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.100821s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.101126s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.009169s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.007208s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.008647s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.006434s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.031997s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005956s ]
+INFO: [ view_end ] --END-- [ RunTime:0.006202s ]
+
+[ 2014-12-21T23:22:21+08:00 ] 127.0.0.1 /lexiang/index.php/Main/Article/article/category/572R6aG1576O5bel.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.010059s ]
+INFO: [ route_check ] --END-- [ RunTime:0.010273s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.007567s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008024s ]
+NOTIC: [8] Undefined index: _type G:\wamp\www\lexiang\ThinkPHP\Lib\Core\Model.class.php 第 579 行.
+SQL: SELECT `id` FROM `hd_articlecategory` WHERE ( `category` = '网页美工' ) LIMIT 1   [ RunTime:0.000754s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `hd_article` WHERE ( categoryid=1 ) LIMIT 1   [ RunTime:0.000712s ]
+SQL: SELECT * FROM `hd_article` WHERE ( categoryid=1 ) ORDER BY ptime LIMIT 0,5   [ RunTime:0.000860s ]
+SQL: SELECT * FROM `hd_articlecategory`  [ RunTime:0.002607s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='1' )  [ RunTime:0.001507s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='2' )  [ RunTime:0.001492s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='3' )  [ RunTime:0.004688s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='4' )  [ RunTime:0.001238s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='5' )  [ RunTime:0.000828s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='6' )  [ RunTime:0.000808s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='8' )  [ RunTime:0.000764s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='9' )  [ RunTime:0.002689s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='10' )  [ RunTime:0.001449s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='11' )  [ RunTime:0.001436s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='12' )  [ RunTime:0.002036s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='13' )  [ RunTime:0.002890s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='14' )  [ RunTime:0.001225s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='15' )  [ RunTime:0.000737s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: articlelist G:\wamp\www\lexiang\Runtime\Cache\Main\55b01cdaecfc3011677ce72a3dcb1160.php 第 83 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.074504s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.074904s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.006538s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.005085s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.009377s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.007873s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.029444s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.021200s ]
+INFO: [ view_end ] --END-- [ RunTime:0.021376s ]
+
+[ 2014-12-21T23:22:26+08:00 ] 127.0.0.1 /lexiang/index.php/Main/Article/article/category/UEhQK01ZU1FM
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006277s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006471s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004621s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004791s ]
+NOTIC: [8] Undefined index: _type G:\wamp\www\lexiang\ThinkPHP\Lib\Core\Model.class.php 第 579 行.
+SQL: SELECT `id` FROM `hd_articlecategory` WHERE ( `category` = 'PHP+MYSQL' ) LIMIT 1   [ RunTime:0.000539s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `hd_article` WHERE ( categoryid=13 ) LIMIT 1   [ RunTime:0.000802s ]
+SQL: SELECT * FROM `hd_article` WHERE ( categoryid=13 ) ORDER BY ptime LIMIT 0,5   [ RunTime:0.001262s ]
+SQL: SELECT * FROM `hd_articlecategory`  [ RunTime:0.000666s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='1' )  [ RunTime:0.002023s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='2' )  [ RunTime:0.000797s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='3' )  [ RunTime:0.000681s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='4' )  [ RunTime:0.000618s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='5' )  [ RunTime:0.000626s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='6' )  [ RunTime:0.000614s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='8' )  [ RunTime:0.000603s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='9' )  [ RunTime:0.000965s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='10' )  [ RunTime:0.000666s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='11' )  [ RunTime:0.000649s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='12' )  [ RunTime:0.000614s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='13' )  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='14' )  [ RunTime:0.000648s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='15' )  [ RunTime:0.000605s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: articlelist G:\wamp\www\lexiang\Runtime\Cache\Main\55b01cdaecfc3011677ce72a3dcb1160.php 第 83 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.060910s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.061090s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004941s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004516s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004103s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004453s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018526s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004545s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004694s ]
+
+[ 2014-12-21T23:22:29+08:00 ] 127.0.0.1 /lexiang/index.php/Main/Article/readarticle?id=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005156s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005394s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004587s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004778s ]
+NOTIC: [8] Undefined index: _type G:\wamp\www\lexiang\ThinkPHP\Lib\Core\Model.class.php 第 579 行.
+SQL: SELECT * FROM `hd_article` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.001006s ]
+SQL: SELECT * FROM `hd_articlecategory`  [ RunTime:0.000729s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: article G:\wamp\www\lexiang\Runtime\Cache\Main\99cb8e87c84ebfdf453c3de8c03e2a6e.php 第 82 行.
+NOTIC: [8] Undefined index: article G:\wamp\www\lexiang\Runtime\Cache\Main\99cb8e87c84ebfdf453c3de8c03e2a6e.php 第 82 行.
+NOTIC: [8] Undefined index: article G:\wamp\www\lexiang\Runtime\Cache\Main\99cb8e87c84ebfdf453c3de8c03e2a6e.php 第 82 行.
+NOTIC: [8] Undefined index: article G:\wamp\www\lexiang\Runtime\Cache\Main\99cb8e87c84ebfdf453c3de8c03e2a6e.php 第 82 行.
+NOTIC: [8] Undefined index: article G:\wamp\www\lexiang\Runtime\Cache\Main\99cb8e87c84ebfdf453c3de8c03e2a6e.php 第 82 行.
+NOTIC: [8] Undefined index: article G:\wamp\www\lexiang\Runtime\Cache\Main\99cb8e87c84ebfdf453c3de8c03e2a6e.php 第 82 行.
+NOTIC: [8] Undefined index: article G:\wamp\www\lexiang\Runtime\Cache\Main\99cb8e87c84ebfdf453c3de8c03e2a6e.php 第 82 行.
+NOTIC: [8] Undefined index: article G:\wamp\www\lexiang\Runtime\Cache\Main\99cb8e87c84ebfdf453c3de8c03e2a6e.php 第 82 行.
+NOTIC: [8] Undefined index: article G:\wamp\www\lexiang\Runtime\Cache\Main\99cb8e87c84ebfdf453c3de8c03e2a6e.php 第 82 行.
+NOTIC: [8] Undefined index: article G:\wamp\www\lexiang\Runtime\Cache\Main\99cb8e87c84ebfdf453c3de8c03e2a6e.php 第 82 行.
+NOTIC: [8] Undefined index: article G:\wamp\www\lexiang\Runtime\Cache\Main\99cb8e87c84ebfdf453c3de8c03e2a6e.php 第 82 行.
+NOTIC: [8] Undefined index: article G:\wamp\www\lexiang\Runtime\Cache\Main\99cb8e87c84ebfdf453c3de8c03e2a6e.php 第 82 行.
+NOTIC: [8] Undefined index: article G:\wamp\www\lexiang\Runtime\Cache\Main\99cb8e87c84ebfdf453c3de8c03e2a6e.php 第 82 行.
+NOTIC: [8] Undefined index: article G:\wamp\www\lexiang\Runtime\Cache\Main\99cb8e87c84ebfdf453c3de8c03e2a6e.php 第 82 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.045861s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046066s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004749s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004115s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003888s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.005736s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018960s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004861s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005037s ]
+
+[ 2014-12-21T23:22:29+08:00 ] 127.0.0.1 /lexiang/index.php/Main/Article/readarticle?id=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005805s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006144s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004875s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005057s ]
+NOTIC: [8] Undefined index: _type G:\wamp\www\lexiang\ThinkPHP\Lib\Core\Model.class.php 第 579 行.
+SQL: SELECT * FROM `hd_article` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000947s ]
+SQL: SELECT * FROM `hd_articlecategory`  [ RunTime:0.001420s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: article G:\wamp\www\lexiang\Runtime\Cache\Main\99cb8e87c84ebfdf453c3de8c03e2a6e.php 第 82 行.
+NOTIC: [8] Undefined index: article G:\wamp\www\lexiang\Runtime\Cache\Main\99cb8e87c84ebfdf453c3de8c03e2a6e.php 第 82 行.
+NOTIC: [8] Undefined index: article G:\wamp\www\lexiang\Runtime\Cache\Main\99cb8e87c84ebfdf453c3de8c03e2a6e.php 第 82 行.
+NOTIC: [8] Undefined index: article G:\wamp\www\lexiang\Runtime\Cache\Main\99cb8e87c84ebfdf453c3de8c03e2a6e.php 第 82 行.
+NOTIC: [8] Undefined index: article G:\wamp\www\lexiang\Runtime\Cache\Main\99cb8e87c84ebfdf453c3de8c03e2a6e.php 第 82 行.
+NOTIC: [8] Undefined index: article G:\wamp\www\lexiang\Runtime\Cache\Main\99cb8e87c84ebfdf453c3de8c03e2a6e.php 第 82 行.
+NOTIC: [8] Undefined index: article G:\wamp\www\lexiang\Runtime\Cache\Main\99cb8e87c84ebfdf453c3de8c03e2a6e.php 第 82 行.
+NOTIC: [8] Undefined index: article G:\wamp\www\lexiang\Runtime\Cache\Main\99cb8e87c84ebfdf453c3de8c03e2a6e.php 第 82 行.
+NOTIC: [8] Undefined index: article G:\wamp\www\lexiang\Runtime\Cache\Main\99cb8e87c84ebfdf453c3de8c03e2a6e.php 第 82 行.
+NOTIC: [8] Undefined index: article G:\wamp\www\lexiang\Runtime\Cache\Main\99cb8e87c84ebfdf453c3de8c03e2a6e.php 第 82 行.
+NOTIC: [8] Undefined index: article G:\wamp\www\lexiang\Runtime\Cache\Main\99cb8e87c84ebfdf453c3de8c03e2a6e.php 第 82 行.
+NOTIC: [8] Undefined index: article G:\wamp\www\lexiang\Runtime\Cache\Main\99cb8e87c84ebfdf453c3de8c03e2a6e.php 第 82 行.
+NOTIC: [8] Undefined index: article G:\wamp\www\lexiang\Runtime\Cache\Main\99cb8e87c84ebfdf453c3de8c03e2a6e.php 第 82 行.
+NOTIC: [8] Undefined index: article G:\wamp\www\lexiang\Runtime\Cache\Main\99cb8e87c84ebfdf453c3de8c03e2a6e.php 第 82 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.048254s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048419s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004355s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004376s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004145s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.006269s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.019649s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005900s ]
+INFO: [ view_end ] --END-- [ RunTime:0.006093s ]
+
+[ 2014-12-21T23:22:33+08:00 ] 127.0.0.1 /lexiang/index.php/Main
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005011s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005214s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004968s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005139s ]
+NOTIC: [8] Undefined index: _type G:\wamp\www\lexiang\ThinkPHP\Lib\Core\Model.class.php 第 579 行.
+SQL: SELECT * FROM `hd_article` WHERE ( `state` = 1 ) LIMIT 7   [ RunTime:0.000918s ]
+SQL: SELECT * FROM `hd_resource` WHERE ( state=0 ) LIMIT 7   [ RunTime:0.000437s ]
+SQL: SELECT * FROM `hd_article` LIMIT 20   [ RunTime:0.000659s ]
+SQL: SELECT * FROM `hd_article` WHERE ( categoryid=5 ) LIMIT 7   [ RunTime:0.001133s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `hd_article` LIMIT 1   [ RunTime:0.001306s ]
+SQL: SELECT * FROM `hd_article` LIMIT 1   [ RunTime:0.001395s ]
+SQL: SELECT * FROM `hd_article` WHERE ( categoryid=13 ) LIMIT 7   [ RunTime:0.001253s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.060818s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.061037s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.006892s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004114s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004338s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004207s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.019983s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004648s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004800s ]
+
+[ 2014-12-21T23:22:44+08:00 ] 127.0.0.1 /lexiang/index.php/Main/Article/article/category/5ZCO5Y%2Bw5oqA5pyv.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.014501s ]
+INFO: [ route_check ] --END-- [ RunTime:0.014694s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004482s ]
+NOTIC: [8] Undefined index: _type G:\wamp\www\lexiang\ThinkPHP\Lib\Core\Model.class.php 第 579 行.
+SQL: SELECT `id` FROM `hd_articlecategory` WHERE ( `category` = '后台技术' ) LIMIT 1   [ RunTime:0.001290s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `hd_article` WHERE ( categoryid=3 ) LIMIT 1   [ RunTime:0.000879s ]
+SQL: SELECT * FROM `hd_article` WHERE ( categoryid=3 ) ORDER BY ptime LIMIT 0,5   [ RunTime:0.000982s ]
+SQL: SELECT * FROM `hd_articlecategory`  [ RunTime:0.000868s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='1' )  [ RunTime:0.002193s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='2' )  [ RunTime:0.001689s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='3' )  [ RunTime:0.002521s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='4' )  [ RunTime:0.002853s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='5' )  [ RunTime:0.002599s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='6' )  [ RunTime:0.001717s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='8' )  [ RunTime:0.001097s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='9' )  [ RunTime:0.003109s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='10' )  [ RunTime:0.004405s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='11' )  [ RunTime:0.001349s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='12' )  [ RunTime:0.001217s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='13' )  [ RunTime:0.001661s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='14' )  [ RunTime:0.001934s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='15' )  [ RunTime:0.004974s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: articlelist G:\wamp\www\lexiang\Runtime\Cache\Main\55b01cdaecfc3011677ce72a3dcb1160.php 第 83 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.063731s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.063914s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.005145s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004424s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.005049s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003490s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.020462s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005238s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005396s ]
+
+[ 2014-12-21T23:22:46+08:00 ] 127.0.0.1 /lexiang/index.php/Main/Article/article/category/UGhvdG9TaG9w5oqA5pyv.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004023s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004291s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003608s ]
+NOTIC: [8] Undefined index: _type G:\wamp\www\lexiang\ThinkPHP\Lib\Core\Model.class.php 第 579 行.
+SQL: SELECT `id` FROM `hd_articlecategory` WHERE ( `category` = 'PhotoShop技术' ) LIMIT 1   [ RunTime:0.000542s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `hd_article` WHERE ( categoryid=8 ) LIMIT 1   [ RunTime:0.000593s ]
+SQL: SELECT * FROM `hd_article` WHERE ( categoryid=8 ) ORDER BY ptime LIMIT 0,5   [ RunTime:0.000671s ]
+SQL: SELECT * FROM `hd_articlecategory`  [ RunTime:0.000604s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='1' )  [ RunTime:0.000647s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='2' )  [ RunTime:0.000730s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='3' )  [ RunTime:0.000604s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='4' )  [ RunTime:0.000668s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='5' )  [ RunTime:0.000679s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='6' )  [ RunTime:0.000659s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='8' )  [ RunTime:0.000764s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='9' )  [ RunTime:0.000678s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='10' )  [ RunTime:0.000559s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='11' )  [ RunTime:0.000548s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='12' )  [ RunTime:0.000562s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='13' )  [ RunTime:0.000698s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='14' )  [ RunTime:0.000497s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='15' )  [ RunTime:0.000454s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: articlelist G:\wamp\www\lexiang\Runtime\Cache\Main\55b01cdaecfc3011677ce72a3dcb1160.php 第 83 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.047931s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048099s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004747s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.005489s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004999s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004847s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.020865s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004381s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004544s ]
+
+[ 2014-12-21T23:22:57+08:00 ] 127.0.0.1 /lexiang/index.php/Main
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004354s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004542s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003671s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003837s ]
+NOTIC: [8] Undefined index: _type G:\wamp\www\lexiang\ThinkPHP\Lib\Core\Model.class.php 第 579 行.
+SQL: SELECT * FROM `hd_article` WHERE ( `state` = 1 ) LIMIT 7   [ RunTime:0.000796s ]
+SQL: SELECT * FROM `hd_resource` WHERE ( state=0 ) LIMIT 7   [ RunTime:0.000547s ]
+SQL: SELECT * FROM `hd_article` LIMIT 20   [ RunTime:0.002869s ]
+SQL: SELECT * FROM `hd_article` WHERE ( categoryid=5 ) LIMIT 7   [ RunTime:0.000574s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `hd_article` LIMIT 1   [ RunTime:0.000354s ]
+SQL: SELECT * FROM `hd_article` LIMIT 1   [ RunTime:0.000496s ]
+SQL: SELECT * FROM `hd_article` WHERE ( categoryid=13 ) LIMIT 7   [ RunTime:0.000510s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.055344s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.055536s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003284s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003001s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.005234s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003167s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015106s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003563s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003719s ]
+
+[ 2014-12-21T23:23:07+08:00 ] 127.0.0.1 /lexiang/index.php/Main/Article/article/category/SkFWQStNWVNRTA%3D%3D.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002640s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002850s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001616s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001828s ]
+NOTIC: [8] Undefined index: _type G:\wamp\www\lexiang\ThinkPHP\Lib\Core\Model.class.php 第 579 行.
+SQL: SELECT `id` FROM `hd_articlecategory` WHERE ( `category` = 'JAVA+MYSQL' ) LIMIT 1   [ RunTime:0.000532s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `hd_article` WHERE ( categoryid=14 ) LIMIT 1   [ RunTime:0.000733s ]
+SQL: SELECT * FROM `hd_article` WHERE ( categoryid=14 ) ORDER BY ptime LIMIT 0,5   [ RunTime:0.000960s ]
+SQL: SELECT * FROM `hd_articlecategory`  [ RunTime:0.000759s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='1' )  [ RunTime:0.000785s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='2' )  [ RunTime:0.000765s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='3' )  [ RunTime:0.000742s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='4' )  [ RunTime:0.000750s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='5' )  [ RunTime:0.000735s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='6' )  [ RunTime:0.003282s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='8' )  [ RunTime:0.001490s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='9' )  [ RunTime:0.001040s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='10' )  [ RunTime:0.000995s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='11' )  [ RunTime:0.002645s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='12' )  [ RunTime:0.001213s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='13' )  [ RunTime:0.001151s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='14' )  [ RunTime:0.000741s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='15' )  [ RunTime:0.000666s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: articlelist G:\wamp\www\lexiang\Runtime\Cache\Main\55b01cdaecfc3011677ce72a3dcb1160.php 第 83 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.040178s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041624s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001643s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001126s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001197s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001499s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005914s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003657s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003853s ]
+
+[ 2014-12-21T23:23:09+08:00 ] 127.0.0.1 /lexiang/index.php/Main/Article/article/category/5Y6f5Z6L6K6%2B6K6h.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002168s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002445s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001684s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001891s ]
+NOTIC: [8] Undefined index: _type G:\wamp\www\lexiang\ThinkPHP\Lib\Core\Model.class.php 第 579 行.
+SQL: SELECT `id` FROM `hd_articlecategory` WHERE ( `category` = '原型设计' ) LIMIT 1   [ RunTime:0.000568s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `hd_article` WHERE ( categoryid=6 ) LIMIT 1   [ RunTime:0.000390s ]
+SQL: SELECT * FROM `hd_article` WHERE ( categoryid=6 ) ORDER BY ptime LIMIT 0,5   [ RunTime:0.000505s ]
+SQL: SELECT * FROM `hd_articlecategory`  [ RunTime:0.000441s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='1' )  [ RunTime:0.000494s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='2' )  [ RunTime:0.000681s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='3' )  [ RunTime:0.000580s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='4' )  [ RunTime:0.001207s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='5' )  [ RunTime:0.001216s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='6' )  [ RunTime:0.001158s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='8' )  [ RunTime:0.001180s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='9' )  [ RunTime:0.000783s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='10' )  [ RunTime:0.000503s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='11' )  [ RunTime:0.000476s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='12' )  [ RunTime:0.000453s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='13' )  [ RunTime:0.000908s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='14' )  [ RunTime:0.000453s ]
+SQL: SELECT * FROM `hd_article` WHERE ( 1=1 AND categoryid='15' )  [ RunTime:0.000384s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: articlelist G:\wamp\www\lexiang\Runtime\Cache\Main\55b01cdaecfc3011677ce72a3dcb1160.php 第 83 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.041900s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042069s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001640s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001037s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001069s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001487s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005658s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001571s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001720s ]
+
+[ 2014-12-21T23:23:13+08:00 ] 127.0.0.1 /lexiang/index.php/Main
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005868s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006206s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002497s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002719s ]
+NOTIC: [8] Undefined index: _type G:\wamp\www\lexiang\ThinkPHP\Lib\Core\Model.class.php 第 579 行.
+SQL: SELECT * FROM `hd_article` WHERE ( `state` = 1 ) LIMIT 7   [ RunTime:0.001039s ]
+SQL: SELECT * FROM `hd_resource` WHERE ( state=0 ) LIMIT 7   [ RunTime:0.000649s ]
+SQL: SELECT * FROM `hd_article` LIMIT 20   [ RunTime:0.000785s ]
+SQL: SELECT * FROM `hd_article` WHERE ( categoryid=5 ) LIMIT 7   [ RunTime:0.000519s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `hd_article` LIMIT 1   [ RunTime:0.000448s ]
+SQL: SELECT * FROM `hd_article` LIMIT 1   [ RunTime:0.000784s ]
+SQL: SELECT * FROM `hd_article` WHERE ( categoryid=13 ) LIMIT 7   [ RunTime:0.000856s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.048243s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048475s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001552s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000920s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001534s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001525s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005954s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001567s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001715s ]
+

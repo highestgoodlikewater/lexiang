@@ -1,0 +1,41 @@
+<div class="pageContent">
+	<form method="post" action="{:U('Admin/ResourceAct/addarticle')}" class="pageForm required-validate" onsubmit="return validateCallback(this)"  enctype="multipart/form-data">
+		<div class="pageFormContent" layoutH="56">
+			<p>
+				<label>文章标题</label>
+				<input name="title" type="text" size="30" />
+			</p>
+            <p>
+				<label>所属分类</label>
+                <select name="categorydata">
+				<option id="1">最上级分类</option>
+                <volist name="categorydata" id="vo">
+                <option id="{$vo.pid}">{$vo.category}</option>
+                </volist>
+                </select>
+			</p>
+			<p>
+				<label>状态</label>
+			<select name="state">
+            <option value="0">未通过</option>
+			<option value="1">通过</option>
+			</select>
+			</p>
+            <p>
+				<label>文章内容</label>
+				<textarea cols="45" rows="5" name="source"></textarea>
+
+			</p>
+
+
+		</div>
+		<div class="formBar">
+			<ul>
+				<li><div class="buttonActive"><div class="buttonContent"><button type="submit">提交</button></div></div></li>
+				<li>
+					<div class="button"><div class="buttonContent"><button type="button" class="close">取消</button></div></div>
+				</li>
+			</ul>
+		</div>
+	</form>
+</div>

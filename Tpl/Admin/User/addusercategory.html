@@ -1,0 +1,27 @@
+<div class="pageContent">
+	<form method="post" action="{:U('Admin/UserAct/addcategory')}" class="pageForm required-validate" onsubmit="return validateCallback(this)"  enctype="multipart/form-data">
+		<div class="pageFormContent" layoutH="56">
+            <p>
+				<label>添加分类：</label>
+                <select name="categorydata">
+                <volist name="categorydata" id="vo">
+                <option id="{$vo.pid}">{$vo.category}</option>
+                </volist>
+                </select>
+			</p>
+			<p>
+			<input name="category" type="text" size="30">
+
+			</p>
+            
+		</div>
+		<div class="formBar">
+			<ul>
+				<li><div class="buttonActive"><div class="buttonContent"><button type="submit">添加</button></div></div></li>
+				<li>
+					<div class="button"><div class="buttonContent"><button type="button" class="close">取消</button></div></div>
+				</li>
+			</ul>
+		</div>
+	</form>
+</div>

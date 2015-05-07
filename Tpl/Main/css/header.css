@@ -1,0 +1,58 @@
+#head{ width:1120px; height:100px;}
+#top{ width:1120px; height:70px;}
+#logo{width:200px; height:70px;float:left;}
+#banner{ width:920px; height:70px; background-image:url('/lexiang/Tpl/Main/images/2014070815490459.gif'); float:right;}
+#nav{width:1120px; height:30px; line-height: 30px; list-style-type: none; background:url(/lexiang/Tpl/Main/images/header_bg.jpg); font-size:17px; overflow:hidden;}
+#nav a { 
+                display: block; width: 150px; text-align:center; 
+            } 
+            #nav a:link { 
+                color:#FFF; text-decoration:none; 
+            } 
+            #nav a:visited { 
+                color:#FFF;text-decoration:none; 
+            } 
+            #nav a:hover { 
+                color:#FFF;text-decoration:none;font-weight:bold; 
+            } 
+            #nav li { 
+                float: left; width: 150px; background:url(/lexiang/Tpl/Main/images/header_bg.jpg); list-style:none; line-height:30px;
+            } 
+            #nav li a:hover{ 
+                background:url(/lexiang/Tpl/Main/images/header_bg.jpg);
+            } 
+            #nav li ul { 
+                line-height: 30px; list-style-type: none;text-align:left; width: 150px; position: absolute;display: none;
+				
+            } 
+            #nav li ul li{ 
+                float: left; width: 150px; 
+                background:url(/lexiang/Tpl/Main/images/header_bg.jpg);
+				list-style:none;
+            } 
+            #nav li ul a{ 
+                display: block; width: 150px;text-align:left; text-align:center;
+            } 
+            #nav li ul a:link { 
+                color:#FFF; text-decoration:none; 
+            } 
+            #nav li ul a:visited { 
+                color:#FFF;text-decoration:none; 
+            } 
+            #nav li ul a:hover { 
+                color:#F3F3F3;text-decoration:none;font-weight:bold; 
+            } 
+			#nav li ul li:hover ul{
+				display:block; position:absolute; left:150px; margin-top:-30px;
+				}
+			#nav li ul li:hover ul li{
+				border:1px solid #999;
+				}
+			#nav li ul li ul{
+				 line-height: 30px; list-style-type: none;text-align:right; width: 150px; position: absolute;display: none;
+				}
+			#nav li ul li ul li{
+				float: right; width: 150px; 
+                background:url(/lexiang/Tpl/Main/images/header_bg.jpg);
+				list-style:none;
+				}

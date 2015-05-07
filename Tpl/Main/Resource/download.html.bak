@@ -1,0 +1,119 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+<link href="/lexiang/Tpl/Main/css/header.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/lexiang/Tpl/Main/js/jquery-1.8.3.min.js"></script>
+<script type="text/javascript" src="/lexiang/Tpl/Main/js/nav.js"></script>
+<style>
+*{margin:0;padding:0;}
+#container{ width:1120px; min_height:600px; margin:auto; background:#FFFFFF; text-align:center;
+/*
+第一个参数是x轴阴影段长度
+第二个参数是y轴阴影段长度
+第三个参数是往四周阴影段长度
+第四个参数是阴影段颜色
+*/
+box-shadow:0px 0px 10px #CCCCCC;
+-moz-box-shadow:0px 0px 10px #CCCCCC;
+-webkit-box-shadow:0px 0px 10px #CCCCCC;
+/*direction 阴影角度 0°为从下往上 顺时针方向 strength 阴影段长度*/.    -ms-filter:"progid:DXImageTransform.Microsoft.Shadow(color=#E9E9E9, direction=0, strength=6)\                progid:DXImageTransform.Microsoft.Shadow(color=#E9E9E9, direction=90, strength=6)\                progid:DXImageTransform.Microsoft.Shadow(color=#E9E9E9, direction=180, strength=6)\                progid:DXImageTransform.Microsoft.Shadow(color=#E9E9E9, direction=270, strength=6)";    *filter:progid:DXImageTransform.Microsoft.Shadow(color=#E9E9E9, direction=0, strength=6)            progid:DXImageTransform.Microsoft.Shadow(color=#E9E9E9, direction=90, strength=6)          progid:DXImageTransform.Microsoft.Shadow(color=#E9E9E9, direction=180, strength=6)            progid:DXImageTransform.Microsoft.Shadow(color=#E9E9E9, direction=270, strength=6);
+}
+#main{width:700px; min-height:600px; margin:0 auto; margin-top:40px;}
+.setfarme {
+background: #fff url(../images/farmebg.gif) repeat-x 0 0;
+border: 1px solid #cacaca;
+margin-top: 15px;
+overflow: hidden;
+}
+.newlist {
+padding: 20px 20px 10px;
+}
+table{font-size:14px;}
+.downtitleWrap {
+margin-bottom: 10px;
+height: 20px;
+background: url(../images/ico8.png) no-repeat 0 0;
+}
+.downtitle {
+font-weight: bold;
+font-size: 16px;
+height: 20px;
+padding-left: 20px;
+float: left;
+width: 75%;
+}
+.downoprea {
+float: right;
+height: 20px;
+width: 19%;
+line-height: 20px;
+}
+.downoprea a {
+display: block;
+height: 20px;
+line-height: 20px;
+width: 30px;
+float: right;
+cursor: pointer;
+}
+.filedown th {
+border-bottom: 1px dotted #ccc;
+font-size: 13px;
+}
+.filedown th, .filedown td {
+text-align: left;
+height: 40px;
+line-height: 40px;
+}
+</style>
+</head>
+
+<body>
+
+<div id="container">
+<!--主页头部开始-->
+<div id="head">
+<include file="Index/header" />
+</div>
+<div id="main">
+<div class="setfarme">
+				<div class="newlist">
+                	<div class="downtitleWrap">
+                    	<div class="downtitle">下载列表</div>
+                        <div class="downoprea"><a class="downnext"></a><a class="downprev"></a></div>
+                    </div>
+                    <div class="line" style="clear:both"></div>
+                	<table width="100%" border="0" cellpadding="0" cellspacing="0" class="filedown">
+                    	<tr>
+                    	    <th width="7%">类型</th>
+                        	<th width="58%">文件名</th>
+                        	<th width="15%" style="text-align:center;">点击/下载</th>                   
+                            <th width="10%">大小</th>
+                            <th width="10%">下载</th>
+                        </tr>
+                        <volist name="datalist" id="vo">
+                         
+                     <tr>
+                        	<td><i class="filetype icon-pdf"></i></td><td><a href="http://www.jq-school.com/MD.aspx?id=1036" title="分享25个自己整理学习SpringMVC+Mybatis的学习综合文档" target="_blank" tips="分享时间：2014/7/15 10:43:19">{$vo.title}</a></td>
+                        	<td style="text-align:center;">75&nbsp;/&nbsp;24</td>
+                      
+                            <td>{$vo.size}M</td>
+                            <td><a href="__GROUP__/Main/ResourceAct/download?id={$vo.id}&title={$vo.content}'" title="分享25个自己整理学习SpringMVC+Mybatis的学习综合文档" target="_blank" tips="下载"><img src="/lexiang/Tpl/Main/images/d3.gif" height="20" width="50" alt="分享25个自己整理学习SpringMVC+Mybatis的学习综合文档" /></a></td>
+                        </tr>    
+                	</volist>
+                	    
+                     <tr>
+                        	<td><i class="filetype icon-pdf"></i></td><td><a href="http://www.jq-school.com/MD.aspx?id=1035" title="实用负载均衡技术：网站性能优化攻略" target="_blank" tips="分享时间：2014/6/10 14:22:34">实用负载均衡技术：网站性能优化攻略</a></td>
+                        	<td style="text-align:center;">426&nbsp;/&nbsp;172</td>
+                      
+                            <td>79.18M</td>
+                            <td><a href="http://www.jq-school.com/MD.aspx?id=1035" title="实用负载均衡技术：网站性能优化攻略" target="_blank" tips="下载"><img src="/lexiang/Tpl/Main/images/d3.gif" height="20" width="50" alt="实用负载均衡技术：网站性能优化攻略" /></a></td>
+                        </tr>    
+                	
+
+</div>
+</div>
+</body>
+</html>
